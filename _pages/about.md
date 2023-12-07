@@ -15,11 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in
-- 🧠 Artificial Intelligence
-- ✨ Open-endedness
-- 🦾 Robotics
-- 🦎 Artificial Life
+I am interested in\
+&nbsp;&nbsp;🧠 Artificial Intelligence\
+&nbsp;&nbsp;✨ Open-endedness\
+&nbsp;&nbsp;🦾 Robotics\
+&nbsp;&nbsp;🦎 Artificial Life\
 with a particular focus on learning to adapt to unforeseen situations in open-ended environments.
 
 I am dedicated to breaking new ground in enabling robots to not just perform a task, but to acquire a breadth of general capabilities, mirroring the evolutionary adaptability found in nature. I also have interests in Metamathematics, Neuroscience and Consciousness.
