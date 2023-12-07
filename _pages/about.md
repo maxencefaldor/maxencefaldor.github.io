@@ -1,13 +1,13 @@
 ---
 layout: about
 permalink: /
-title: about
-subtitle: PhD student at [Imperial College London](https://www.imperial.ac.uk) in the [Adaptive and Intelligent Robotics](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) lab
+title: About
+subtitle: PhD student at <a href="https://www.imperial.ac.uk">Imperial College London</a> in the <a href="https://www.imperial.ac.uk/adaptive-intelligent-robotics">Adaptive and Intelligent Robotics</a> lab
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -15,8 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in
-- 🧠 Artificial Intelligence
-- ✨ Open-endedness
-- 🦾 Robotics
-- 🦎 Artificial Life
+I am interested in 🧠 Artificial Intelligence ✨ Open-endedness 🦾 Robotics 🦎 Artificial Life, with a particular focus on the ability of intelligence to adapt to unforeseen situations in open-ended environments.
