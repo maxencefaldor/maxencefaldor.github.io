@@ -3,13 +3,23 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
+@inproceedings{scopa,
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  title={Skill-Conditioned Policy Optimization with Successor Features Representations},
+  author={Faldor, Maxence* and Grillotti, Luca* and Borja, León and Cully, Antoine},
+  year={2023},
+  booktitle={ALOE workshop at NeurIPS},
+  preview={scopa.gif}
+  pdf={scopa.pdf},
+}
+
+@inproceedings{dcg_me_telo,
+  bibtex_show={true},
+  title={Synergizing Quality-Diversity with Descriptor-Conditioned Reinforcement Learning},
+  author={Faldor, Maxence and Chalumeau, F\'{e}lix and Flageat, Manon and Cully, Antoine},
+  year={2023},
+  preview={dcg_me_telo.png}
+  pdf={dcg_me_telo.pdf},
 }
 
 @inproceedings{dcg_me_gecco,
@@ -22,7 +32,6 @@
   address={New York, NY, USA},
   url={https://doi.org/10.1145/3583131.3590503},
   doi={10.1145/3583131.3590503},
-  abstract={Quality-Diversity algorithms, such as MAP-Elites, are a branch of Evolutionary Computation generating collections of diverse and high-performing solutions, that have been successfully applied to a variety of domains and particularly in evolutionary robotics. However, MAP-Elites performs a divergent search based on random mutations originating from Genetic Algorithms, and thus, is limited to evolving populations of low-dimensional solutions. PGA-MAP-Elites overcomes this limitation by integrating a gradient-based variation operator inspired by Deep Reinforcement Learning which enables the evolution of large neural networks. Although high-performingin many environments, PGA-MAP-Elites fails on several tasks where the convergent search of the gradient-based operator does not direct mutations towards archive-improving solutions. In this work, we present two contributions: (1) we enhance the Policy Gradient variation operator with a descriptor-conditioned critic that improves the archive across the entire descriptor space, (2) we exploit the actor-critic training to learn a descriptor-conditioned policy at no additional cost, distilling the knowledge of the archive into one single versatile policy that can execute the entire range of behaviors contained in the archive. Our algorithm, DCG-MAP-Elites improves the QD score over PGA-MAP-Elites by 82\% on average, on a set of challenging locomotion tasks.},
   booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
   pages={138–146},
   numpages={9},
@@ -30,20 +39,5 @@
   location={Lisbon, Portugal},
   series={GECCO '23},
   preview={dcg_me_gecco.png}
-}
-
-@book{dcg_me_telo,
-  bibtex_show={true},
-  title={Synergizing Quality-Diversity with Descriptor-Conditioned Reinforcement Learning},
-  author={Faldor, Maxence and Chalumeau, F\'{e}lix and Flageat, Manon and Cully, Antoine},
-  year={2023},
-  preview={dcg_me_telo.png}
-}
-
-@book{scopa,
-  bibtex_show={true},
-  title={Skill-Conditioned Policy Optimization with Successor Features Representations},
-  author={Faldor, Maxence and Grillotti, Luca and Borja, León and Cully, Antoine},
-  year={2023},
-  preview={scopa.gif}
+  pdf={dcg_me_gecco.pdf},
 }
