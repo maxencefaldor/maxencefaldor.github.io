@@ -1,6 +1,7 @@
 ---
 layout: null
 title: ICARL
+permalink: /cv/
 description: 
 nav: true
 nav_order: 4
