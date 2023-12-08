@@ -27,6 +27,6 @@ I am dedicated to breaking new ground in enabling robots to not just perform a t
 
 Alongside my PhD studies, I teach both undergraduate and postgraduate students, _Deep Learning_, _Mathematical Methods Tutorials_ and _Python Programming_, totaling 300 hours/year. My responsibilities include lecturing, conducting tutorials and workshops, developing and grading coursework, and managing modules.
 
-I am also an organizer of the Imperial College Autonomous Reasoning \& Learning ([ICARL](https://icarl.doc.ic.ac.uk)) seminar series
+I am also an organizer of the Imperial College Autonomous Reasoning & Learning ([ICARL](https://icarl.doc.ic.ac.uk)) seminar series
 - Each month, ICARL hosts a seminar series at Imperial College London, where we invite Artificial Intelligence researchers to give a presentation about their work.
 - I am responsible for the setup of the lecture theatre and technical equipment (microphones, video cameras, online meeting and so on) to ensure high-quality recordings for our [YouTube channel](https://www.youtube.com/@ICARLSeminars).
